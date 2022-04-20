@@ -1,0 +1,25 @@
+{
+    "metamask_address": "0x75D7c065cd51e2719Ec309aDb04424D1447331C7",
+    "metamask_private_key": "0x085ae8f8f629e2bcd6f59f38437259640b5a6e7f41f0fb78af3180b9f118ace4" ,
+
+    "RPC": "https://bsc.mytokenpocket.vip/",
+
+    "GWEI_GAS": 6,
+    
+    "MaxTXFeeBNB": 0.005,
+
+
+    "Slippage": 30,
+
+    "MinLiquidityBNB": 0.5,
+    "MaxSellTax": 21,
+    "MaxBuyTax": 21,
+
+    "cc_BlacklistWords": [
+        "ROOT",
+        "allowed",
+        "Accounting",
+        "blacklist"
+    ]
+    
+}
